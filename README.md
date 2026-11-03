@@ -35,6 +35,7 @@
 ## GUI Tools
 
 - [Avidemux](http://avidemux.sourceforge.net/) - A video editor designed for simple cutting, filtering, and encoding tasks.
+- [ClipFit](https://compressmyclip.com/) - A browser GUI for FFmpeg that re-encodes a video to a chosen file size, aimed at Discord's upload limits.
 - [FFmpeg Batch AV Converter](https://www.ffmpeg-batch.com/) - A GUI for FFmpeg focused on batch processing of video files.
 - [FrameShift](https://gaurox.dev/frameshift/) - Windows GUI for FFmpeg with Explorer integration for converting, compressing, trimming, and processing media files.
 - [HandBrake](https://handbrake.fr/) - A popular open-source video transcoder with FFmpeg as its core engine.
